@@ -1,0 +1,36 @@
+.one {
+  color: black;
+}
+
+.two {
+  color: aquamarine;
+}
+
+.three{
+  color: rgb(31, 2, 8);
+}
+
+.word01 {
+  font-style: italic;
+  text-align: justify;
+  text-decoration-line: underline ;
+}
+
+
+.fonts {
+  font-family: 'Tektur';
+}
+
+.mixed {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: aqua;
+}
+
+#green {
+  font-family: Nanumpen ;
+  font-size: 2em;
+  font-style: oblique;
+  color: blueviolet;
+  background-color: #00ff00;
+}
+
